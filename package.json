@@ -1,0 +1,22 @@
+{
+    "name": "outdev-dark-theme",
+    "displayName": "Outdev dark theme",
+    "description": "Outdevs theme!",
+    "version": "0.0.1",
+    "publisher": "Ahmed",
+    "engines": {
+        "vscode": "^1.96.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Outdev dark theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Outdev dark theme-color-theme.json"
+            }
+        ]
+    }
+}
